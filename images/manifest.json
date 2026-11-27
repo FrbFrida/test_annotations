@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://frbfrida.github.io/test_annotations/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in FrbFrida/test_annotations project"
+        ]
+    },
+    "items": []
+}
